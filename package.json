@@ -31,7 +31,7 @@
   },
   "license": "Apache-2.0",
   "scripts": {
-    "start": "node main.build.js",
+    "start": "require.main",
     "test": "node_modules/.bin/standard --verbose js/**/*.js main/*.js",
     "watch": "node ./scripts/watch.js",
     "buildMain": "node ./scripts/buildMain.js",
