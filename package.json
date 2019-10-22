@@ -48,7 +48,7 @@
     "type": "git",
     "url": "https://github.com/minbrowser/min.git"
   }
-}
 "scripts": {
   "start": "node index.js"
+}
 }
