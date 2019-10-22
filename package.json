@@ -30,7 +30,7 @@
     "electron-installer-debian": "^1.2.0"
   },
   "engines": {
-    "node": "1.11.1",
+    "node": "6.11.1",
     "npm": "1.4.29"
 },
   "license": "Apache-2.0",
