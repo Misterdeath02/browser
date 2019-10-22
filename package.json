@@ -28,6 +28,9 @@
   },
   "optionalDependencies": {
     "electron-installer-debian": "^1.2.0"
+   "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
   },
   "license": "Apache-2.0",
   "scripts": {
